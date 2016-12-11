@@ -1,6 +1,6 @@
 {
-  "name": "hack.chatbot",
-  "version": "1.0.0",
+  "name": "StamBot",
+  "version": "3.0.0",
   "description": "Bot for Hack.Chat",
   "main": "./src/main.js",
   "dependencies": {
@@ -16,20 +16,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/M4GNV5/Hack.ChatBot"
+    "url": "git+https://github.com/stamsarger/Hack.ChatBot"
   },
   "keywords": [
     "chat",
     "bot"
   ],
   "author": {
-    "name": "Jakob Löw",
-    "email": "eragonjml@googlemail.com",
-    "url": "https://github.com/M4GNV5"
+    "name": "stamsarger",
+    "email": "stamatios.sargantanis@mail.com",
+    "url": "https://github.com/stamsarger"
   },
   "license": "4-clause BSD",
   "bugs": {
-    "url": "https://github.com/M4GNV5/Hack.ChatBot/issues"
+    "url": "https://github.com/stamsarger/Hack.ChatBot/issues"
   },
-  "homepage": "https://github.com/M4GNV5/Hack.ChatBot"
+  "homepage": "https://github.com/stamsarger/Hack.ChatBot"
 }
